@@ -35,6 +35,3 @@ REACT_APP_HOST=http://localhost:5555
 3) Запустить проект - `npm run start`
 
 
-## Автор
-
-- [@balkoev](https://www.github.com/balkoev)
